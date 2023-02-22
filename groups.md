@@ -1,9 +1,9 @@
 # Groups for the project
 
-## Pepe's group
+# #  Tias Group
 
-- me
-- myself
-- I
+- Tia Semeradova
+- Thomas Stvarnik
+- Nikola Safranek
 
 ---
