@@ -21,3 +21,11 @@ John Marfo
 2. Mikulus Regeczy
 3. Augustine Emeghara
 4. Hossain , sayed shafayet
+
+## Tia's Group
+
+- Tia Semeradova
+- Thomas Svarnik
+- Nikola Safranek
+
+---
